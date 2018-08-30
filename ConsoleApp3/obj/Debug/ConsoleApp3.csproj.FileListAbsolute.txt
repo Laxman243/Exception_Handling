@@ -1,0 +1,7 @@
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+F:\myC#.net_Progrmas\ExceptionHandling\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
